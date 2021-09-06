@@ -107,6 +107,14 @@ main.now {
   border-color: #ff99ff;
 }
 
+.article-title {
+  text-transform: uppercase;
+}
+
+h4 {
+  text-align: left;
+}
+
 ul.skills {
   padding: 0;
   text-align: center;
