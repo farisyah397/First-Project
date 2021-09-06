@@ -77,8 +77,8 @@ header .profile-image:hover {
   transform: scale(1.2) rotate(5deg);
 }
 .tag {
-  background-color: black;
-  color: yellow;
+  background-color: palevioletred;
+  color: black;
   padding: 7px;
   border-radius: 5px;
   display: table;
@@ -86,7 +86,7 @@ header .profile-image:hover {
 } 
 .location {
   background-color: #222;
-  color: yellow;
+  color: palevioletred;
 }
 
 main.now {
@@ -133,6 +133,15 @@ ul.skills {
 
 .python li{
   list-style: none;
+}
+
+.baking-pic {
+  margin: 0 12%;
+}
+
+.figcaption {
+  text-align: center;
+  padding: 5px;
 }
 footer {
   width: 100%;
