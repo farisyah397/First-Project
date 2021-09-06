@@ -106,15 +106,9 @@ main.now {
 .card:hover {
   border-color: #ff99ff;
 }
-
 .article-title {
   text-transform: uppercase;
 }
-
-h4 {
-  text-align: left;
-}
-
 ul.skills {
   padding: 0;
   text-align: center;
@@ -137,6 +131,9 @@ ul.skills {
   border:3px dashed rgb(1, 14, 14);
 }
 
+.python li{
+  list-style: none;
+}
 footer {
   width: 100%;
   min-height: 30px;
